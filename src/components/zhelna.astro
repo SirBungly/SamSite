@@ -1,0 +1,27 @@
+---
+
+
+---
+
+<script>
+  import { Fountain } from 'fountain-js';
+  import { ZHELNA } from '../assets/scripts/Zhelna';
+
+  let fountain = new Fountain();
+  let output = fountain.parse(ZHELNA);
+  let res = output.html.script;
+  document.getElementById("script")?.setHTMLUnsafe(res);
+
+</script>
+
+<div class="flex justify-center">
+  <div id="script"></div>
+</div>
+
+<style type="text/css" is:global>
+  body {font: 12px/14px Courier, "Courier New", monospace; line-height: 1.05;}
+  #script {width: 500px}
+  #script>h3 {font-weight: bold; margin-top: 70px}
+  #script>.dialogue {text-align: center;}
+  #script>* {margin-top: 15px; margin-bottom: 15px}
+</style>
