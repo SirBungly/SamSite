@@ -4,14 +4,23 @@ EXT. CRANE ARM JUTTING OVER THE CITY - NIGHT
 
 ZHELNA and DEKKA are perched, surveying the city from their vantage point. Both are wearing battle-tested HIGH-TECH ARMOUR with JETPACKS. Zhelna's bears the distinctive mark of a soldier of the MIDWIFE division, whilst Dekka's seems to be assembled from a selection of more worn items from various factions. The HUMDRUM of the city buzzes beneath them. The breeze catches a strand of Zhelna's BRAIDED HAIR and she tucks it back into place, frustrated.
 
+DEKKA
+You alright?
+
 ZHELNA
 The invitation said they should have finished the symposium by now.
 
 DEKKA
-I mean we could've got the wrong exit.
+There's a chance we've got the wrong exit.
 
 ZHELNA
-No, Cadmius definitely said it was gonna be here. And we've trusted him before. He's never been wrong.
+No this has got to be right. Cadmius guaranteed that this would be one of their escape routes. And he - well he knows a thing or two about the underground art world.
+
+DEKKA
+The Vermission deal with that sort of thing? I thought they were just about, like, arcane tech and stuff?
+
+ZHELNA
+No. (She chuckles.) That's just a Cadmius thing.
 
 Zhelna stands, raising her SNIPER RIFLE to her face. The light from the SCOPE illuminates her black eyes.
 
@@ -20,10 +29,10 @@ DEKKA
 Hey! Someone could see us.
 
 ZHELNA
-I've done this a million times before. If someone wanted to see us, they would already be right on top of us.
+I've done this a million times. If someone with the right skills wanted to know where we were, they would already be right on top of us.
 
 DEKKA
-Sometimes your confidence... staggers me. You know if we get caught doing this we'll--
+Sometimes you...  stagger me. You know if we get caught doing this we'll--
 
 Zhelna looks at Dekka, lowering the scope.
 
@@ -56,15 +65,24 @@ She jumps, her jetpack activating with a sharp WOOSH. Zhelna twists her hand, re
 Zhelna activates a CLOAKING DEVICE a few metres before deftly hitting the ground, disguising her entry into the crowd. She uncloacks, rushing towards a gap in the crowd that has now opened around the injured figure, his BLACK ROBES now stained with blood. He attempts to stand but cannot.
 
 ZHELNA
-(Pushing through the crowd, in an empathetic voice)
-Is someone hurt? Coming through, excuse me.
+I'm a midwife, please make way!
 
-Zhelna makes it into the parting created in the crowd.
+The crowd suddenly turn towards her, their attention drawn away from the injured figure.
 
 ZHELNA (CONT'D)
-Everything is okay, please stay clam. I'm a Midwife - I'm trained to handle medical emergencies. Are you ok? Let's treat you somewhere less exposed.
+Is someone hurt? Coming through, excuse me.
 
-As she goes to lift the figure up, he tries to resist. She reacts, discretely pulling a HIDDEN BLADE from her sleeve, pushing it against the small of his back.
+She makes it into the parting created by the crowd.
+
+ZHELNA (CONT'D)
+Everything's okay, please stay calm everyone.
+
+She pretends to look over his wounds, palming the surgical knives as she reaches towards his leg. She applies a bandage.
+
+ZHELNA (CONT'D)
+Are you okay? Let's treat you somewhere less exposed.
+
+As she goes to lift the figure up, he tries to resist. She reacts, discretely pushing a knife against the small of his back.
 
 ZHELNA (CONT'D)
 Coming through! Make way, please.
@@ -76,15 +94,86 @@ DEKKA
 Everything go to plan?
 
 ZHELNA
-Well, I just egregiously broke my hypocratic oath, but apart from that - yeah, we're good. (pause) He's a bit of a wriggler, watch him.
+Well, I just egregiously broke my hippocratic oath, but apart from that - yeah, we're good. (pause) He's a bit of a wriggler, watch him.
 
 INT. WAREHOUSE - NIGHT
 
+The warehouse is mostly abandoned. DEBRIS is scattered around the floor. The base of the CRANE dominates the room - it is adorned with the remains of an ARTISTIC RITUAL MURDER which prominently featured GLASS FEATHERS that have been removed from the corpse that used to hang there.
 
+Zhelna and Dekka drag the masked figure through a SLIDING DOOR, flicking the LIGHT SWITCH as they enter. The warehouse SYNTHETIC LIGHTS flicker on, illuminating the room with a SICKENING GLOW which throws mangled shadows on the corrugated iron walls. GRAFFITI of various provocative phrases can be seen, written in blood.
 
+The figure is thrown onto a METAL TABLE and restrained with PLASMA JOINED HANDCUFFS. They squirm. Zhelna hits them, cracking their mask. They stop moving. Through the gaps in the broken shell, their diluted pupils and yellow-stained iris are now obvious.
 
+ZHELNA
+Why were you at the gathering tonight? What do you know of The Swan.
 
-# Test Script
+Zhelna grabs the figure by the throat. Dekka maintains their distance from the table.
 
+THE FIGURE
+(Raspy)
+He'll kill you for this.
 
-Hello there
+He spits blood.
+
+ZHELNA (CONT'D)
+Who's he? The Glass Swan?
+  
+
+THE FIGURE
+He'll gut you. Drape them as ribbons over his next work. I don't think you deserve to be the centrepiece. Just the dressings.
+
+Zhelna releases her grip and goes to strike him again - but Dekka catches her arm.
+
+DEKKA
+Looks there's a way you get out of here alive. And it's not by pissing her off. Tell us why you were at the meeting. Tell us what he's planning.
+
+The figure gestures to the broken fragments of the mask that lie on the table beside him. A beat. Dekka picks one up.
+
+THE FIGURE
+He's chosen us. We are the lucky ones. We will deliver his vision.
+
+DEKKA
+What vision? People are dying.
+
+THE FIGURE
+His artistic utopia. Drow and Aelfir alike. Blood flowing as nectar to the hungry. The hunger of aesthetic perfection.
+
+Dekka's grip tightens on the mask fragment. Zhelna's look darkens slightly, and she almost raises an eye.
+
+DEKKA
+This isn't some kind of fucking joke! Our contact was strung up like an animal.
+
+Dekka points towards the base of the crane.
+
+DEKKA (CONT'D)
+We found her with her life leaving her lips! And you dare to call this aesthetic? Barbarism. Pandering to the Aelfir upper classes.
+
+THE FIGURE
+(Gleefully)
+Pandering? This is art accessible to the masses! The fact that the bourgeoisie take joy in it is just a side effect of his glory!
+
+Before Zhelna can stop him, Dekka drives the fragment into the figure's chest. He sucks in air.
+
+DEKKA
+(Angry)
+What's his plan! Who's his next target!
+
+ZHELNA
+(Hesitant)
+Dekka, stop. We need to know what Sulphur has to do with all of this. Everyone we've met who's associated with him has been on it--
+
+DEKKA
+(Ignoring her)
+TELL ME!
+
+Dekka digs the fragment in deeper. With his next intake of breath, the figure sits up as far as he is able. Whisps of yellow smoke lick from his mouth.
+
+THE FIGURE
+The one you betrayed. The one who flew too close to his majesty.
+
+The figure reaches his manacled hands towards him. Dekka slits his throat and he slumps on to the table lifeless. In the distance, the PULSATING WHIRR of a distance spacecraft.
+
+ZHELNA
+Shit. We - uh - we should go. Dekka..
+
+Dekka's eyes are wide. Zhelna drags him out of the warehouse and the pair slip into the shadows. The blood of the figure slowly drips onto the floor, a slow stream of it winding towards the dried blood left from the murder, saturating it once more.
