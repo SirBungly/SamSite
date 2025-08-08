@@ -1,0 +1,60 @@
+# Zenith-47 Prologue
+
+Drifting through deep space, The Scrapper, a small, light reconnaissance ship, has just exited hyper space. The primary engines are disabled and it is running on auxiliary power, maintaining its momentum with the two ion drives that have been modded onto the rear of the central fin. It is nearing the end of the sol and the internal habitat system has just dimmed to a subtle orange. 
+
+As you patiently wait for the end of your shift, you suddenly notice a blinking red indicator on the dashboard in front of you. Flicking the comms switch to ‘receiving’ and expecting to see a standard flight control log message come in, you’re surprised to instead see an active alert signal. It was coming from a nearby space station, Zenith-47, a research vessel just 15 minutes’ travel from your current location. The message reads as follows: 
+
+LOG//Sol 446: m$44yj90imme9-g ()0-fu48c2——danger help us--
+
+You feel the ship suddenly decelerate, the ship’s walls grumbling under the strain. The space station soon comes into sight. Zenith-47 is a moderately sized outpost, eight large photovoltaic arrays, arranged in pairs in a cruciform pattern. The main body of the station consists of a number of interconnected modules that form a long straight passageway. Positioned at one end is a small escape shuttle, still coupled in place. At the other end, an opening docking port, which the ship is carefully approaching.
+
+The nearer you get to Zenith-47, the more the damage becomes obvious. The left side of the main body has been severely compromised, and lines of metal and debris radiate out from the centre, floating slowly away. The damage seems to either be caused by some sort of high velocity impact or some sort of stellar phenomenon—it is difficult to tell without closer
+analysis.
+
+
+# Zenith-47 Combat Prelude
+
+As you step into the corridor, you feel a chill run down your spine. The door begins to close
+behind you and you hear it clunk shut with a mechanical hiss. You feel a shiver run down your spine—it’s colder here, the lengthy, windowless corridor lined with regular metal panels, clearly outfitted in a far more utilitarian, functional way than the rest of the station. Like the rest of the modules, an oversized door sits at the end of the hallway. On the right hand wall, a second, smaller hatch is situated halfway down. As you begin to move forward, the strip of white lights above you begins to falter, flickering sporadically before the walkway is suddenly plunged into darkness.
+
+// Option 1
+You hear a strange, digital noise emanate from all around you, a dissonant crackling that vibrates through the metal walls. The din morphs into a drawn out cackle, a laughter that burrows into your eardrums. Suddenly, the noise subsides, replaced instead by the piercing discord of a warning alarm. The siren cycles for a few seconds before a male voice joins: ‘Warning, station destruction imminent. Zenith-47 facing severe security threat. Evacuate Immediately’.
+
+// Option 2
+After a second, a red light begins blinking at the end of the corridor. In the dim glow, you can just make out a strange shape. Eight feet tall, a towering, armoured form uncurls itself from the ceiling, carefully removing its spindly back legs from the air duct that runs the length of the corridor. It chatters menacingly through its mandibles, slowly turning its head towards you. Without warning, the creature lunges forwards, manoeuvring itself onto the left-hand wall and clambering in your direction as the scraping of limbs on metal echoes off the metallic panelling.
+
+// Option 3
+Before you have time to react, you hear a familiar mechanical sound from the other end of the corridor. Still almost pitch black, you manage to make out a strange, lumbering form beginning to make its way through the doorway which closes shut once the shape clears its aperture. Towering over even the tallest of you, the creature starts to approach, its footsteps echoing off the steel panelling. It accelerates, and is it does, you spot a strange asymmetry to its gait, one leg slamming into the ground with far more force than the other, and a giant, clawed arm swinging far in front of the other, catching the walls with a horrifying scraping noise and producing bursts of sparks that reveal further glints of its
+grotesque form.
+
+
+# Duskwrought Factions
+
+The Hawkhurst Gang are a bloodthirsty, violent group of career criminals. Hellbent on disrupting the usual trade networks for their own illicit gain, the gang are responsible for using both technology and otherworldly means for destroying and terrorising the city's stations and waterways. Hawkhurst own the largest proportion of the underworld, and have been known to use the sewers as a large-scale, distributed hideout when other gangs have made an attempt on their territory. 
+
+—
+
+As one of a number of cults operating in the murky shadows of London's underbelly, the Worshippers of The Deep are obsessed with the unknown and the powers they can draw by letting it control them. Certain followers are taken over by these forces. These followers become channelers, guiding the other acolytes with knowledge that should be beyond their comprehension. Worshippers also believe in the destruction of London and, ultimately, the rest of the world. They often look for ways to flood districts, using powerful magic to dam the Thames. Primarily located in a large ruined chamber that is connected to the underworld through a wide sewer pipe, other London factions tend to stay away from anyone who follows their strange religion. Described as insane, their plans do not often come to fruition, but some of the members come closer to achieving something profound and terrible each day that passes.
+
+—
+
+Craftspeople throughout London have unionised against the threat of criminal gangs, cults, enforcers, and political meddling. Composed of the four primary crafts guilds (the tailors, the jewellers, the smiths, the carpenters), the members and committees are designed to protect the interests of their workers. Starting as a pacifist union, the recent unrest has forced the group to reconsider their strategy.
+
+Many board members have forged links with alchemists, herbologists, weapons manufacturers, artificers, and tinkerers in order to further invest in their political strategy and protection. With the combined forces of these trade links, the workers' union has become an economic and political powerhouse, creating trade deals that ensure the survival of their work. When push comes to shove, they have even invested in local bruisers to be stationed outside the most targetable workshops in order to protect the workers and goods within.
+
+
+# Duskwrought Enemies
+
+At over seven feet tall, piston automata are imposing robotic workers. Bodies made from an intricate weave of brass, steel, and copper, and engines powered by a barrel of diesel placed on their backs, they use their extended piston forearms for driving rivets into metal, or for flattening road surfaces. Coincidentally, their extreme strength makes them formidable foes, and some automata are stolen and re-programmed for use as bodyguards or mercenaries.
+
+—
+
+Standing two feet taller than even their piston-wielding brethren, heavy automata are specifically designed for combat. Sporting a large blunderbuss on one arm and an extendable tower-shield on the other, heavies are incredibly well-armoured and can even withstand consistent gunfire or small explosives. The effectiveness of their arsenal is somewhat dampened by their hulking, limited movement, but if mounted to a vehicle, or adapted specifically for more rapid operations, heavy automata can deal considerable damage to even the most nimble of opponents.
+
+—
+
+Scions of the deep dramatically vary in body composition. Most have aquatic features, almost like hybrids between fish and men, and many can breathe underwater for days at a time. Their skin is often deep blue or black, covered in tiny scales that glisten in a thin layer of iridescent ooze. It is unknown whether scions were originally people, whether they are born of the ocean, or whether they were brought here from the stars. They are aggressive, stalking predators who often rob and capsize boats that stray too far from the standard shipping lanes during storms.
+
+—
+
+Flesh golems are constructs created from corpses. Sewn together and reanimated through a series of occult rituals, they possess supernatural strength, healing ability, and agility, often dispatching large groups of foes with relative ease. It is said that the only way to truly kill a flesh golem is to pierce its heart and burn its corpse. Or one could kill its master and take over as its overlord. Loyal to a fault, they will stop at nothing to do their creator's bidding. 

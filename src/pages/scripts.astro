@@ -1,0 +1,14 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../layouts/Layout.astro";
+import List from "../components/List.astro";
+
+let scripts = await getCollection(("scripts"));
+let items = scripts.map(script => {return {name: script.id, href: `/SamSite/scripts/${script.id}`}});
+items.push({name: `<-- Back`, href: "/SamSite"});
+
+---
+
+<Layout>
+	<List items={items} title="Scripts" />
+</Layout>

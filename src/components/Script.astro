@@ -1,0 +1,22 @@
+---
+  import { Fountain } from 'fountain-js';
+  
+  const { script } = Astro.props;
+
+  let fountain = new Fountain();
+  let output = fountain.parse(script);
+  let res = output.html.script;
+
+---
+
+<div class="flex justify-center">
+  <div id="script" set:html={res}></div>
+</div>
+
+<style type="text/css" is:global>
+  #script {width: 450px}
+  #script>h3 {font-weight: bold; margin-top: 50px; }
+  #script h4, #script .parenthetical {text-align: center; }
+  #script>.dialogue {text-align: left; width: 300px; margin: 0 auto; margin-bottom: 15px}
+  #script>* {margin-top: 15px; margin-bottom: 15px; }
+</style>

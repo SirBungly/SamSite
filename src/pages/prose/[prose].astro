@@ -1,0 +1,26 @@
+---
+import type { GetStaticPaths } from "astro";
+import Layout from '../../layouts/Layout.astro';
+import ScriptView from '../../components/Script.astro';
+import { getCollection, getEntry } from "astro:content";
+
+// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
+// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+
+export const getStaticPaths = (async () => {
+	let scripts = await getCollection(("prose"));
+	let res = scripts.map(script => {
+			return { params: { prose: script.id}, props: { text: script.data.text} };
+		})
+	return res;
+
+}) satisfies GetStaticPaths;
+
+const { text } = Astro.props;
+---
+
+<Layout>
+	<a href="/SamSite/prose">{`<-- Back`}</a>
+	<ScriptView script={text}></ScriptView>
+	<a href="/SamSite/prose">{`<-- Back`}</a>
+</Layout>
