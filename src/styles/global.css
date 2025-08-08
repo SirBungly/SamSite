@@ -2,4 +2,11 @@
 
 body {font: 12px/14px Courier, "Courier New", monospace; line-height: 1.05;}
 
+  @media screen and (max-width: 600px) {
+    body {
+      font-size: 10px;
+      line-height: 1.02;
+    }
+  }
+
 a {text-decoration: underline;}
