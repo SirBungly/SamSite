@@ -20,7 +20,9 @@ const { text } = Astro.props;
 ---
 
 <Layout>
-	<a href="/SamSite/scripts">{`<-- Back`}</a>
-	<ScriptView script={text}></ScriptView>
-	<a href="/SamSite/scripts">{`<-- Back`}</a>
+	<div class="mb-8 mt-8 ml-6 mr-6">
+		<a href="/SamSite/scripts">{`<-- Back`}</a>
+		<ScriptView script={text}></ScriptView>
+		<a href="/SamSite/scripts">{`<-- Back`}</a>
+	</div>
 </Layout>

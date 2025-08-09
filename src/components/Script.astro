@@ -10,15 +10,19 @@
 ---
 
 <div class="flex justify-center">
-  <div id="script" set:html={res}></div>
+  <div class="my-8" id="script" set:html={res}></div>
 </div>
 
 <style type="text/css" is:global>
-  #script {width: 450px}
+  #script {width: 100%; max-width: 550px;}
   #script>h3 {font-weight: bold; margin-top: 50px; }
   #script h4, #script .parenthetical {text-align: center; }
-  #script>.dialogue {text-align: left; width: 300px; margin: 0 auto; margin-bottom: 15px}
+  #script>.dialogue {text-align: left; width: 350px; margin: 0 auto; margin-bottom: 15px}
   #script>* {margin-top: 15px; margin-bottom: 15px; }
-  #script {margin-left: 20px; margin-right: 20px;}
+
+  #script>p:first-of-type {
+    font-weight: bold;
+    text-align: center;
+  }
 
 </style>

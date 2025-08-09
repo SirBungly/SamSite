@@ -1,6 +1,6 @@
 # Zenith-47 Prologue
 
-Drifting through deep space, The Scrapper, a small, light reconnaissance ship, has just exited hyper space. The primary engines are disabled and it is running on auxiliary power, maintaining its momentum with the two ion drives that have been modded onto the rear of the central fin. It is nearing the end of the sol and the internal habitat system has just dimmed to a subtle orange. 
+Drifting through deep space, The Scrapper, a small, light reconnaissance ship, has just exited hyperspace. The primary engines are disabled and it is running on auxiliary power, maintaining its momentum with the two ion drives that have been modded onto the rear of the central fin. It is nearing the end of the sol and the internal habitat system has just dimmed to a subtle orange. 
 
 As you patiently wait for the end of your shift, you suddenly notice a blinking red indicator on the dashboard in front of you. Flicking the comms switch to ‘receiving’ and expecting to see a standard flight control log message come in, you’re surprised to instead see an active alert signal. It was coming from a nearby space station, Zenith-47, a research vessel just 15 minutes’ travel from your current location. The message reads as follows: 
 
