@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
-body {font: 15px Courier, "Courier New", monospace; line-height: 1.05;}
+body {font: 16px Courier, "Courier New", monospace; line-height: 1.05;}
 
   @media screen and (max-width: 600px) {
     body {
-      font-size: 10px;
+      font-size: 20px;
       line-height: 1.02;
     }
   }
