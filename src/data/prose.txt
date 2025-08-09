@@ -1,4 +1,23 @@
-# Zenith-47 Prologue
+# Zaffy’s Diary
+
+Cobb said I needed to write this. Something about ‘writing being good for the soul’. Well. I write about numbers every day. And that’s never been good for the soul. Maybe numbers are for the wallet and words are for the soul. Or maybe I really just don’t want to have to relive this. Anyway…
+
+It’s been five years now. Five years since I lost everything but my best friend. When tragedies happen to other people in day-to-day life it’s very easy to pretend that something like that will never happen to you. But then it does. I mean it happened to everyone within the Silver Quarter and half of Amaranth. I’m not exactly special. Still, losing your parents is going to be traumatic no matter how many other people happen to lose their parents on the same day. 
+
+For the imaginary reader who might be trying to follow this - or for me when I’ve lost my mind (which is not that hard when the Vermission exists) - I’m talking about the Eidolon-initiated demon incursion that happened on the 15th day of the lunar solstice, on the 204th year of our lady. A splinter group of the Ministry managed to discover that Eidolons were being created as a sort of byproduct of the drug industry up in the city. Their response to that? To weaponise them against the Aelfir and Drow who happened to be living near me. That’s what everyone says anyway. I think the Aelfir are suppressing some of the details. The Ministry attacking an entire district? They were known to be problematic but they’re not exactly the Crimson Vigil. Anyway, fuck both of them. A freedom fighter can only fight for freedom if there’s anyone left to enjoy it.
+
+Cobb and I were out on one of my regular business meetings. A new shipment of medical equipment was coming in for the Midwives. I wasn’t even supposed to be there, but a fellow Azurite had got in over his head with another deal so he’d passed it on to me. I suppose you’d call it a miracle, but it’s hard to see it like that when you can’t even come home from your day at work. And believing in miracles would require believing that the divine beings who call themselves gods have any interest in keeping someone like me safe. Fuck them as well, actually.
+
+We heard the initial explosion as we were walking back. ‘Earth-shattering’ would be cliché (and would imply that the districts of Spire were actually made of anything organic at all) but the shockwave that hit us was indescribably brutal. Both of our eardrums ruptured immediately, and Cobb flung himself around me to protect me from the worst of the damage, but the wave of energy battered through us like being hit by a sky whale mid-flight. I remember the feeling of teeth cracking. And then a blast of flame, searing through the street. Claws of fire swiping at the buildings. Cobb, my love, taking the brunt of the heat, his mask welding itself to his face.
+
+I can’t begin to put into words how I wish we’d been somewhere else. How my family and his could have escaped this godforsaken city years ago after my durance was complete. I try to tell myself that I don’t do what I do for money. That I do it to make sure we can survive the weathering of Spire without falling into the gang warfare or drug trade that dominates Red Row. Maybe if I was honest with myself I’d blame myself for what happened on that day even more than I already do. Or maybe leading a life of relative luxury compared to what most Drow get to experience was just asking for a plunge back down into icy reality.
+
+I had to come back to these last paragraphs after a while. Cobb came in whilst I was writing and, although he’d never actually admit it, I think he felt guilty for encouraging me to do this. It’s not just his eyes that I can read. His scars tell me more than he could ever say out loud. They sometimes just wrinkle in a way that tells me how scared he really is. The strongest man I know. And yet I’m his weakness.
+
+Occasionally I wonder whether what I’m doing now is even more wrong than just living as an Azurite. At least that role is defined in the misery it can cause. Mitigated and contained by the existence of our panopticon-esque society. Maybe fighting for freedom really is futile for us. But I think I’ve got to try. There’s a way out of this that limits the violence we have to cause. The right chess pieces tumble and we can pull ourselves out of this heap. We’ve got a meeting tomorrow that might just guarantee us some leverage in the right place. And maybe it’ll be the last blood we have to spill. Until our hands are forced again. And again. My skin is marked by the strings attached to them. I’ll snap them when I can.
+
+
+# Zenith-47 - Prologue
 
 Drifting through deep space, The Scrapper, a small, light reconnaissance ship, has just exited hyperspace. The primary engines are disabled and it is running on auxiliary power, maintaining its momentum with the two ion drives that have been modded onto the rear of the central fin. It is nearing the end of the sol and the internal habitat system has just dimmed to a subtle orange. 
 
@@ -12,7 +31,7 @@ The nearer you get to Zenith-47, the more the damage becomes obvious. The left s
 analysis.
 
 
-# Zenith-47 Combat Prelude
+# Zenith-47 - Combat Prelude
 
 As you step into the corridor, you feel a chill run down your spine. The door begins to close
 behind you and you hear it clunk shut with a mechanical hiss. You feel a shiver run down your spine—it’s colder here, the lengthy, windowless corridor lined with regular metal panels, clearly outfitted in a far more utilitarian, functional way than the rest of the station. Like the rest of the modules, an oversized door sits at the end of the hallway. On the right hand wall, a second, smaller hatch is situated halfway down. As you begin to move forward, the strip of white lights above you begins to falter, flickering sporadically before the walkway is suddenly plunged into darkness.
@@ -28,7 +47,7 @@ Before you have time to react, you hear a familiar mechanical sound from the oth
 grotesque form.
 
 
-# Duskwrought Factions
+# Duskwrought - Factions
 
 The Hawkhurst Gang are a bloodthirsty, violent group of career criminals. Hellbent on disrupting the usual trade networks for their own illicit gain, the gang are responsible for using both technology and otherworldly means for destroying and terrorising the city's stations and waterways. Hawkhurst own the largest proportion of the underworld, and have been known to use the sewers as a large-scale, distributed hideout when other gangs have made an attempt on their territory. 
 
@@ -43,7 +62,7 @@ Craftspeople throughout London have unionised against the threat of criminal gan
 Many board members have forged links with alchemists, herbologists, weapons manufacturers, artificers, and tinkerers in order to further invest in their political strategy and protection. With the combined forces of these trade links, the workers' union has become an economic and political powerhouse, creating trade deals that ensure the survival of their work. When push comes to shove, they have even invested in local bruisers to be stationed outside the most targetable workshops in order to protect the workers and goods within.
 
 
-# Duskwrought Enemies
+# Duskwrought - Enemies
 
 At over seven feet tall, piston automata are imposing robotic workers. Bodies made from an intricate weave of brass, steel, and copper, and engines powered by a barrel of diesel placed on their backs, they use their extended piston forearms for driving rivets into metal, or for flattening road surfaces. Coincidentally, their extreme strength makes them formidable foes, and some automata are stolen and re-programmed for use as bodyguards or mercenaries.
 
