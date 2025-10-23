@@ -5,7 +5,7 @@ import List from "../components/List.astro";
 
 let scripts = await getCollection(("scripts"));
 let items = scripts.map(script => {return {name: script.id, href: `/scripts/${script.id}`}});
-items.push({name: `<-- Back`, href: "/SamSite"});
+items.push({name: `<-- Back`, href: "/"});
 
 ---
 
