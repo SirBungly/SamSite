@@ -1,4 +1,4 @@
-# The Midwife
+# Spire - The Midwife
 
 EXT. CRANE ARM JUTTING OVER THE CITY - NIGHT
 
@@ -14,7 +14,7 @@ DEKKA
 There's a chance we've got the wrong exit.
 
 ZHELNA
-No this has got to be right. Cadmius guaranteed that this would be one of their escape routes. And he - well he knows a thing or two about the underground art world.
+Cadmius guaranteed that this would be one of their escape routes. And he - well he knows a thing or two about the underground art world.
 
 DEKKA
 The Vermission deal with that sort of thing? I thought they were just about, like, arcane tech and stuff?
