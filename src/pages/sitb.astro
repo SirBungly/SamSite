@@ -1,0 +1,79 @@
+---
+import SITBLayout from '../layouts/SITBLayout.astro';
+
+// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
+// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+---
+
+<SITBLayout>
+	<header class="fixed z-10">
+		<div class="h-18 w-screen bg-neutral-950 flex flex-row justify-between px-3">
+			<div class="w-max flex flex-col justify-center">
+				<img class="w-20" src="/images/logomark.webp"/>
+			</div>
+			<div class="flex flex-row w-max">
+				<div class="flex flex-row items-center pb-0.5 mr-4">
+					<div>
+						<img class="h-9 nav-link" src="/images/shows-link.webp" />
+						<div class="relative width-0">
+							<img class="absolute rotate-180 w-10 left-17" style="top: -5px;" src="/images/arrow.webp"/>
+						</div>
+					</div>
+					<div>
+						<div class="nav-link">
+							<img class="h-9 pl-1.5" style="padding-top: 0.5px;" src="/images/submissions-link.webp" />
+							<div class="relative width-0">
+								<img class="absolute w-3 left-31" style="top: -18px;" src="/images/exclamation.webp"/>
+							</div>
+						</div>
+					</div>
+					<div>
+						<img class="h-9 nav-link" src="/images/team-link.webp" />
+						<div class="relative width-0">
+							<img class="absolute w-9 left-35" style="top: -45px;" src="/images/arrow.webp"/>
+							<img class="absolute h-10 left-25" style="top: -2px;" src="/images/arrow-outline.webp"/>
+						</div>
+					</div>
+					<div>
+						<img class="h-9 nav-link" src="/images/contact-link.webp" />
+					</div>
+				</div>
+				<div class="flex flex-col justify-center pr-3">
+					<img class="w-15" src="/images/logo.webp" />
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<section class="h-screen">
+		<div class="flex flex-row justify-evenly">
+			<div class="bg-magenta h-screen flex-1/2 flex flex-col justify-center bg-[url(/images/icon-background.webp)] bg-size-[auto_1800px] bg-center">
+				<div class="flex flex-row justify-center">
+					<img src="/images/logo-stairs.webp" style="width: 85%;" class="pr-10 pt-10"/>
+				</div>
+			</div>
+			<div class="h-screen flex-1/2 bg-[url(/images/hero.webp)] bg-center bg-cover">
+				
+			</div>
+		</div>
+	</section>
+
+	<section class="h-screen">
+		
+	</section>
+
+	<footer>
+
+	</footer>
+</SITBLayout>
+
+<style>
+	ul {
+		list-style: decimal-leading-zero;
+	}
+
+	.nav-link:hover {
+		-webkit-animation: tada 1s;
+    	animation: tada 1s;
+	}
+</style>

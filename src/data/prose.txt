@@ -25,7 +25,7 @@ As you patiently wait for the end of your shift, you suddenly notice a blinking 
 
 LOG//Sol 446: m$44yj90imme9-g ()0-fu48c2——danger help us--
 
-You feel the ship suddenly decelerate, the ship’s walls grumbling under the strain. The space station soon comes into sight. Zenith-47 is a moderately sized outpost, eight large photovoltaic arrays, arranged in pairs in a cruciform pattern. The main body of the station consists of a number of interconnected modules that form a long straight passageway. Positioned at one end is a small escape shuttle, still coupled in place. At the other end, an opening docking port, which the ship is carefully approaching.
+You feel the ship suddenly decelerate, the ship’s walls grumbling under the strain. The space station soon comes into sight. Zenith-47 is a moderately sized outpost, eight large photovoltaic arrays arranged in pairs in a cruciform pattern. The main body of the station consists of a number of interconnected modules that form a long straight passageway. Positioned at one end is a small escape shuttle, still coupled in place. At the other end, an opening docking port, which the ship is carefully approaching.
 
 The nearer you get to Zenith-47, the more the damage becomes obvious. The left side of the main body has been severely compromised, and lines of metal and debris radiate out from the centre, floating slowly away. The damage seems to either be caused by some sort of high velocity impact or some sort of stellar phenomenon—it is difficult to tell without closer
 analysis.
