@@ -2,6 +2,7 @@
 
 @theme {
     --color-magenta: #390225;
+    --color-magenta-desat: #321628;
     --color-crimson: #6B0604;
     --breakpoint-md: 52rem;
 }

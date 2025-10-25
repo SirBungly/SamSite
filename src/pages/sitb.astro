@@ -32,14 +32,18 @@ import SITBLayout from '../layouts/SITBLayout.astro';
 						</a>
 					</div>
 					<div>
-						<img class="h-9 nav-link" src="/images/team-link.webp" />
+						<a href="#team">
+							<img class="h-9 nav-link" src="/images/team-link.webp" />
+						</a>
 						<div class="relative width-0">
 							<img class="absolute w-9 left-35" style="top: -45px;" src="/images/arrow.webp"/>
 							<img class="absolute h-10 left-25" style="top: -2px;" src="/images/arrow-outline.webp"/>
 						</div>
 					</div>
 					<div>
-						<img class="h-9 nav-link" src="/images/contact-link.webp" />
+						<a href="#contact">
+							<img class="h-9 nav-link" src="/images/contact-link.webp" />
+						</a>
 					</div>
 				</div>
 				<div class="flex flex-col justify-center pl-2">
@@ -64,6 +68,7 @@ import SITBLayout from '../layouts/SITBLayout.astro';
 		</div>
 	</section>
 
+	<div class="mh-max bg-crimson bg-[url(images/icon-background.webp)] -z-10" style="background-size: 2700px; background-position-x: -300px; background-position-y: 1500px;">
 	<section id="shows">
 		<div class="shows-background w-full bg-[url(/images/shows-background.webp)] bg-cover bg-bottom">
 			<div class="flex flex-col items-center">
@@ -100,8 +105,8 @@ import SITBLayout from '../layouts/SITBLayout.astro';
 		</div>
 	</section>
 
-	<div class="h-160 bg-crimson bg-[url(images/icon-background.webp)] relative -z-10" style="top: -150px; background-size: 2700px; background-position-x: -300px; background-position-y: 1500px;">
-		<section id="submissions" class="relative" style="top: 150px;">
+	<div class="h-150 md:h-160 2xl:h-140">
+		<section id="submissions" class="mx-4 z-10">
 			<div class="flex flex-col items-center mt-5">
 				<div class="flex flex-row">
 					<img class="w-8 h-3 md:w-11 md:h-4 relative top-7 md:top-12" src="images/pen.webp"/>
@@ -110,13 +115,89 @@ import SITBLayout from '../layouts/SITBLayout.astro';
 				</div>
 				<img class="w-13 h-2 md:w-26 md:h-4" src="images/underline.webp" style="transform: scale(-1, 1) rotate(3deg);"/>
 			</div>
+
+			<div class="wotc-caption xs:mx-20 sm:mx-30 md:mx-60 xl:mx-70 2xl:mx-90 mt-10 leading-5.5 flex flex-col items-center sm:text-lg xl:text-xl 2xl:text-2xl">
+				<p class="mb-4 ">We are currently looking for scripts!</p>
+				<p class="font-light  text-gray-300 mb-2">If you have (or would like to write) a script that you would like to be performed in 2026 - let us know! We're looking for a two-hander (ideally for one male and one female performer) that lasts up to 90 minutes to perform at the White Bear Theatre in Kennington.</p>
+				<p class="font-light  text-gray-300 mb-4">The script can be about anything, but we're particularly interested in thrillers or psychological drama and horror. Please make sure the script is entirely yours (or you have the permission of a co-writer to submit it).</p>
+				<p class="font-light  text-gray-300">We look forward to hearing from you!</p>
+				<img class="w-16 my-5" src="images/filigree.webp"/>
+				<p class="mb-4 ">Deadline: 6pm Friday 21st November</p>
+				<p class="mb-4 ">Submit to: <a class="underline" href="mailto:sitbproductions@gmail.com">sitbproductions@gmail.com</a></p>
+			</div>
 		</section>
 	</div>
+	</div>
+
+	<section id="team" class="bg-neutral-950">
+		<div class="flex flex-col items-center pt-14">
+				<div class="flex flex-row">
+					<h2 class="section-heading font-[Fredoka] font-semibold text-white text-3xl md:text-5xl 2xl:text-6xl">meet the team</h2>
+				</div>
+				<img class="w-13 h-2 md:w-26 md:h-4" src="images/underline.webp" style="transform: scale(-1, 1) rotate(3deg);"/>
+		</div>
+		<div class="flex flex-col md:flex-row justify-center gap-10 md:gap-30 mt-13 pb-20 mx-20">
+			<div class="flex flex-col justify-center items-center">
+				<img class="headshot-circle" src="images/macsen.webp"/>
+				<p>Macsen Brown</p>
+				<p class="font-light text-center text-gray-300">Producer / Actor</p>
+			</div>
+			<div class="flex flex-col justify-center items-center">
+				<img class="headshot-circle" src="images/fiona.webp"/>
+				<p>Fiona Popplewell</p>
+				<p class="font-light text-center text-gray-300">Director / Actor</p>
+			</div>
+			<div class="flex flex-col justify-center items-center">
+				<img class="headshot-circle" src="images/sam.webp"/>
+				<p>Sam Bell</p>
+				<p class="font-light text-center text-gray-300">Tech Director / Sound / Actor</p>
+			</div>
+		</div>
+	</section>
+
+	<section id="contact" class="h-180 bg-[url(images/team-hero.webp)] bg-magenta-desat bg-blend-soft-light bg-cover bg-center">
+			<div class="flex flex-col items-center pt-30">
+				<div class="flex flex-row">
+					<h2 class="section-heading font-[Fredoka] font-semibold text-white text-3xl md:text-5xl 2xl:text-6xl">contact us</h2>				</div>
+				<img class="w-13 h-2 md:w-26 md:h-4" src="images/underline.webp"/>
+			</div>
+
+			<div class="flex flex-col justify-center items-center mt-20">
+				<form method="POST" accept-charset="UTF-8" id="form">
+					<div class="flex flex-col sm:px-10">
+						<div class="flex flex-col sm:flex-row my-2">
+							<input class="bg-gray-200/25 rounded-sm p-2 mb-2 sm:mb-0 sm:mr-2 w-full" type="email" name="email" placeholder="Your email">
+							<input class="bg-gray-200/25 rounded-sm p-2 w-full" type="text" name="full-name" placeholder="Your name">
+						</div>
+						<div class="mb-2">
+							<textarea class="bg-gray-200/25 rounded-sm w-full p-2 h-30" name="message" placeholder="Message"></textarea>
+						</div>
+						<!-- add hidden Honeypot input to prevent spams -->
+						<input type="hidden" name="_gotcha" style="display:none !important">
+						<div class="w-full">
+							<button class="cursor-pointer w-full bg-gray-200/25 rounded-sm hover:bg-gray-200/40 p-2" type="submit">Send</button>
+						</div>
+					</div>
+				</form>
+			</div>
+	</section>
 
 
 
 	<footer>
-
+		<div class="h-18 bg-neutral-950 flex flex-row justify-between items-center px-4">
+			<div class="w-max flex flex-col justify-center">
+				<img class="w-20" src="/images/logomark.webp"/>
+			</div>
+			<div>
+				<p class="footer-text text-gray-500 mx-4 lg:mx-20">© Stuck in the Basement Productions 2025. A website by <a class="underline" href="mailto:samuelbellcreative@gmail.com">Sam Bell</a>. Photos by John Kolikis @jkolikis</p>
+			</div>
+			<div class="flex flex-row w-max">
+				<div class="flex flex-col justify-center">
+					<img class="w-15" src="/images/logo.webp" />
+				</div>
+			</div>
+		</div>
 	</footer>
 </SITBLayout>
 
@@ -130,9 +211,65 @@ import SITBLayout from '../layouts/SITBLayout.astro';
         });
     });
 });
+
+    const form = document.getElementById("form");
+    form!.addEventListener("submit", formSubmit);
+
+    function formSubmit(e: any) {
+        e.preventDefault();
+        const formData = new FormData(e.target);
+
+        fetch("https://getform.io/f/anlngmqa", {
+            method: "POST",
+            body: formData,
+            headers: {
+                "Accept": "application/json",
+            },
+        })
+        .then(response => {
+			console.log(response);
+			window.alert("Thank you for contacting us!");
+			var elements = document.getElementsByTagName("input");
+			for (var ii=0; ii < elements.length; ii++) {
+				if (elements[ii].type == "text" || elements[ii].type == "email") {
+					elements[ii].value = "";
+				}
+			}
+
+			var textareas = document.getElementsByTagName("textarea");
+			for (var ii=0; ii < textareas.length; ii++) {
+				textareas[ii].value = "";
+			}
+		})
+        .catch(error => console.log(error))
+    }
 </script>
 
 <style>
+
+	@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+
+	.footer-text {
+		font-size: 0.8rem;
+
+		@media (max-width: 800px) {
+			font-size: 0.6rem;
+		}
+
+		@media (max-width: 600px) {
+			font-size: 0.4rem;
+		}
+	}
+
+	.headshot-circle {
+		clip-path: circle();
+		width: 280px;
+
+		@media (max-width: 1200px) {
+			width: 220px;
+		}
+	}
+
 	ul {
 		list-style: decimal-leading-zero;
 	}
@@ -195,5 +332,4 @@ import SITBLayout from '../layouts/SITBLayout.astro';
 		src: url("fonts/ChopinScript.otf") format("opentype");
 	}
 
-	@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
 </style>
